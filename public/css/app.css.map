@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.scss"],"names":[],"mappings":"AAEA;EACE,iBAAiB;EACjB,mBAAmB,EACpB","file":"app.css","sourcesContent":["// @import \"node_modules/bootstrap-sass/assets/stylesheets/bootstrap\";\n\n#nested-comment{\n  margin-top: 15px;\n  margin-left: 100px;\n}\n\n"]}
